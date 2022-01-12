@@ -1,5 +1,6 @@
-# mininsta-instagram-clone
+# mininsta
 
+A Webapp for people to post content they like.
 This project is build using MERN Stack (MongoDB,Express,React,Nodejs)</br>
 
 This project has :</br>
@@ -21,3 +22,37 @@ g) View all posts created by different users (LIKE A POST TOO ;) )</br>
 2. Stranger</br>
 He is a person who can visit the Webapp and view posts created by different users. He can freely view content here and can create an account for himself too.</br>
 
+
+### Home page where users can see existing posts
+
+![](app-screenshots/1.png)
+
+
+### Sign up page for new users
+
+![](app-screenshots/2.png)
+
+
+### Signin page for existing users
+
+![](app-screenshots/3.png)
+
+
+### User Dashboard (My Posts) 
+
+![](app-screenshots/4.png)
+
+
+### Create a new post (Add new posts here)
+
+![](app-screenshots/5.png)
+
+
+### Update your existing post 
+
+![](app-screenshots/6.png)
+
+
+### Mobile responsive
+
+![](app-screenshots/7.png)
