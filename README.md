@@ -6,6 +6,8 @@ This project has :</br>
 1. User</br>
 2. Stranger</br>
 
+Each of them have different roles to play
+
 1. User:</br>
 This is the person who will have access to the website from the frontend and will have all the functionalities like :</br>
 a) Creating a user account by logging in </br>
@@ -19,4 +21,3 @@ g) View all posts created by different users (LIKE A POST TOO ;) )</br>
 2. Stranger</br>
 He is a person who can visit the Webapp and view posts created by different users. He can freely view content here and can create an account for himself too.</br>
 
-Successfully hosted :https://mininsta.herokuapp.com/
