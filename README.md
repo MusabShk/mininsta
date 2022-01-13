@@ -1,6 +1,9 @@
 # mininsta
 
-A Webapp for people to post content they like.
+A Webapp for people to post content they like. Similar to instagram, this app provides features like:
+1. Upload photos - add a title and description.
+2. Give a Like to an existing post.
+
 This project is build using MERN Stack (MongoDB,Express,React,Nodejs)</br>
 
 This project has :</br>
