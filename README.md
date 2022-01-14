@@ -14,7 +14,7 @@ Each of them have different roles to play
 
 1. User:</br>
 This is the person who will have access to the website from the frontend and will have all the functionalities like :</br>
-a) Creating a user account by signing in </br>
+a) Creating a user account by signing up </br>
 b) Create a custom post </br>
 c) Add title, description and photo to his/her post</br>
 d) Edit an existing post which was created by him </br>
